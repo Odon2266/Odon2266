@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), Python, PHP, SQL
+- **Languages:** JavaScript (ES6+), Python, SQL
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express, Nest.js, Django, FastAPI
 - **Databases & Tools:** PostgreSQL (PostGIS), MySQL, Linux (Ubuntu), Git, Tailscale
