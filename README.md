@@ -20,12 +20,10 @@
 - **[Simulateur Entretien IA](https://github.com/Odon2266/simulateur-entretien-ia)** - AI-powered interview simulator with real-time feedback (Django + React).
 
 ---
-
 ### 📈 GitHub Statistics
 
-![Odon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Odon2266&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Odon2266&layout=compact&theme=dark)
-
+![Odon's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Odon2266&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odon2266&layout=compact&theme=dark)
 ---
 
 📫 Open to full-stack development, remote freelance projects, and internship opportunities.
