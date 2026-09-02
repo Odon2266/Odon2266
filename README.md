@@ -10,7 +10,7 @@
 - **Languages:** JavaScript (ES6+), Python, SQL
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express, Nest.js, Django, FastAPI
-- **Databases & Tools:** PostgreSQL (PostGIS), MySQL, Postman, Git, Tailscale
+- **Databases & Tools:** PostgreSQL (PostGIS), MySQL, Prisma, Postman, Git, Tailscale
 
 ---
 
