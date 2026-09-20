@@ -56,5 +56,5 @@
 
 📫 **Contact & Collaboration:**  
 - 💼 Open to **Full-Stack Development**, **Remote Freelance Projects**, and **Internship Opportunities**.
-- 📧 **Email:** [odon.fidinjanaharisoa@gmail.com](fidinjanaharisoa@gmail.com)
+- 📧 **Email:** [odon.fidy@gmail.com](odon.fidy@gmail.com)
 - 🌐 **LinkedIn:** [linkedin.com/in/odon](https://www.linkedin.com/in/odon-fidinjaharisoa-4a8a93285/) 
