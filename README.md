@@ -1,85 +1,126 @@
-<h1 align="center">Hi there, I'm Odon! 👋</h1>
+# 👋 Hi, I'm Odon!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C997&center=true&vcenter=true&width=500&lines=Full+Stack+Developer;AI+%26+Data+Engineering+Enthusiast;Embedded+Systems+Developer;Building+scalable+%26+intelligent+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=20C997&center=true&vcenter=true&width=600&lines=Full-Stack+Developer;Backend+%26+API+Engineering;DevOps+%26+Cloud+Enthusiast;AI+%26+Data+Engineering+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🚀 <i>Building secure, scalable, and intelligent software solutions from low-level systems to full-stack cloud applications.</i>
+  <b>Building modern applications, scalable backends, and intelligent systems.</b>
 </p>
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <strong>Languages:</strong><br/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-</p>
-
-<p align="left">
-  <strong>Frontend & Mobile:</strong><br/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-</p>
-
-<p align="left">
-  <strong>Backend & APIs:</strong><br/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
-</p>
-
-<p align="left">
-  <strong>Databases, DevOps & Tools:</strong><br/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/PostGIS-003B57?style=flat-square&logo=postgresql&logoColor=white" alt="PostGIS" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tailscale-24292E?style=flat-square&logo=tailscale&logoColor=white" alt="Tailscale" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-| Project | Tech Stack | Description |
-| :--- | :--- | :--- |
-| ⚡ **[energiAI](https://github.com/Odon2266/energiAI)** | `FastAPI` `React` `MLflow` `Docker` | Plateforme MLOps de prédiction de consommation électrique et de détection d'anomalies. |
-| 🤖 **[Simulateur Entretien IA](https://github.com/Odon2266/simulateur-entretien-ia)** | `Django` `React` `PostgreSQL` | Simulateur d'entretien d'embauche intelligent avec évaluation et feedback en temps réel. |
-| 🛡️ **[Systeme Vote Distribue](https://github.com/Odon2266/systeme-vote-distribue)** | `FastAPI` `PostgreSQL` `Tailscale` | Système de vote distribué, chiffré et anonyme basé sur une architecture distribuée. |
-| 🐧 **[Projet Linux Embarqué RT](https://github.com/Odon2266/projet-linux-embarque-rt)** | `Buildroot` `QEMU` `C` `Linux` | Système Linux embarqué temps réel compilé avec patch `PREEMPT_RT` et tests sous QEMU. |
-
----
-
-### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Odon2266&show_icons=true&theme=dark&count_private=true" width="48%" alt="Odon's Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odon2266&layout=compact&theme=dark" width="48%" alt="Top Languages" />
-</p>
-
----
-
-📫 **Get in Touch:**
-
-<p align="left">
-  <a href="mailto:odon.fidy@gmail.com">
-    <img src="https://img.shields.io/badge/Email-odon.fidy%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/Odon2266">
+    <img src="https://img.shields.io/badge/GitHub-Odon2266-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/odon-fidinjaharisoa-4a8a93285/">
-    <img src="https://img.shields.io/badge/LinkedIn-Odon_Fidinjanaharisoa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
-💼 *Open to Full-Stack Development, Remote Freelance Projects, and Internship Opportunities.*
+---
+
+## 🚀 About Me
+
+I'm a developer passionate about building software solutions that solve real-world problems.
+
+My main interests include:
+
+- 💻 **Full-Stack Development:** Building modern, responsive web applications.
+- ⚙️ **Backend Engineering:** Designing REST APIs, database architectures, and distributed systems.
+- 🐳 **DevOps & Infrastructure:** Containerization, automation, Linux, and deployment workflows.
+- 🤖 **AI & Data Engineering:** Exploring machine learning, data pipelines, and intelligent applications.
+- 🔐 **System Engineering:** Network security, embedded Linux, and system architecture.
+
+I enjoy learning new technologies, experimenting with architectures, and turning ideas into functional projects.
+
+**Currently focused on:** Backend engineering, DevOps practices, and building production-oriented applications.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,sql" />
+</p>
+
+### Frontend & Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css" />
+</p>
+
+### Backend & API Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,fastapi" />
+</p>
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,prisma" />
+</p>
+
+### DevOps, Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,bash,nginx" />
+</p>
+
+**Additional technologies:**
+- PostgreSQL / PostGIS
+- MLflow
+- Tailscale
+- Buildroot
+- QEMU
+
+---
+
+## 🚀 Featured Projects
+
+Here are some projects that demonstrate my interests and technical experience.
+
+| Project | Technologies | Description |
+|---|---|---|
+| ⚡ [energiAI](https://github.com/Odon2266/energiAI) | FastAPI · React · MLflow · Docker | MLOps platform for electricity consumption prediction and anomaly detection. |
+| 🤖 [AI Interview Simulator](https://github.com/Odon2266/simulateur-entretien-ia) | Django · React · PostgreSQL | Intelligent interview simulator with automated evaluation and feedback. |
+| 🛡️ [Distributed Voting System](https://github.com/Odon2266/systeme-vote-distribue) | FastAPI · PostgreSQL · Tailscale | Distributed, encrypted, and anonymous voting system. |
+| 🐧 [Embedded Linux RT](https://github.com/Odon2266/projet-linux-embarque-rt) | Buildroot · QEMU · C · Linux | Real-time embedded Linux system using the PREEMPT_RT patch. |
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Odon2266&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Odon2266&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=Odon2266&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm interested in collaborating on software projects, exploring new technologies, and contributing to meaningful solutions.
+
+<p>
+  <a href="mailto:odon.fidy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/odon-fidinjaharisoa-4a8a93285/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+**Open to:** Full-Stack Development Opportunities · Freelance Projects · Technical Collaborations · Internships
+
+---
+
+<p align="center">
+  <i>"Build. Learn. Improve. Repeat."</i>
+</p>
